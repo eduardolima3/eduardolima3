@@ -1,6 +1,6 @@
 ## Olá, eu sou o Eduardo Lima!
 * 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas.
-* ⚛️ Estudando atualmente ReactJS.
+* ⚛️ Estudando atualmente ReactJS, React Native.
 
 <div align="center">
   <a href="https://github.com/eduardolima3">
